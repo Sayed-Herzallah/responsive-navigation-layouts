@@ -1,0 +1,80 @@
+/* all */
+*{
+    padding: 0;
+    margin: 0;
+}
+/*start nav home */
+.nav-home{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background: #000;
+    text-decoration: none;
+}
+/* end nav home */
+
+/* start nav home */
+.nav-home a{
+    color: white;
+    text-decoration: none;
+    padding: 0 10px;
+}
+/* end nav home */
+
+/*start nav home list */
+.nav-home .list{
+    display: flex;
+    justify-content: flex-end;
+    padding: 15px;
+}
+/*end  nav home list */
+
+/* start nav home list a */
+.nav-home .list a{
+    padding:  0 15px;
+    text-decoration: none;
+}
+.header-home{
+    /* start nav home list a  */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+    margin-bottom: 10px;
+    font-weight: 500;
+    font-family: cursive;
+    background-image: url(../img/back.jpg)
+}
+
+/* end nav home list a  */
+
+/* start nav header home div a  */
+.header-home div a{
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px
+    
+}
+/* end nav header home div a  */
+
+/* start nav header home div about  */
+.header-home div .about{
+    border-radius: 15px;
+    background-color: red;
+    text-align: center;
+}
+/* end nav header home div about  */
+
+/* start nav header home div details  */
+
+.header-home div .details{
+    border-radius: 15px;
+    background-color: rgb(37, 12, 39);
+    text-align: center;
+}
+/* end nav header home div details  */
