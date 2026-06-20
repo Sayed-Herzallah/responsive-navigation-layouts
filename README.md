@@ -5,8 +5,7 @@ A collection of interactive navigation bar templates featuring responsive grid m
 ---
 
 ## 📌 Overview
-
-**UI-Navbar-Header** is a clean library of navbar and header combinations designed to help developers speed up web designs with pre-styled drop-down components.
+UI-Navbar-Header is a clean library of navbar and header combinations designed to help developers speed up web designs with pre-styled drop-down components.
 
 ---
 
@@ -19,21 +18,22 @@ A collection of interactive navigation bar templates featuring responsive grid m
 
 ---
 
-## 🚀 Key Features
-
+## 🚀 Core Features
 * 📱 **Mobile Drawer:** Simple menu drawers that scale beautifully.
 * 🌀 **Scroll Effects:** Changes header opacity/colors on page scroll.
 * 🎨 **Themes:** Features both dark-mode and light-mode templates.
 
 ---
 
-## 👨&zwj;💻 Author
-
-**Sayed Herzallah**  
-Frontend Developer
+## ⚙️ Setup & Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Sayed-Herzallah/UI-Navbar-Header.git
+   ```
+2. Open `index.html` in your browser.
 
 ---
 
-## ⭐ Support
-
-If you find this project useful, consider giving it a star on GitHub.
+## 👨‍💻 Author
+**Sayed Herzallah**  
+Full Stack Developer
