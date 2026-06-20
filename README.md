@@ -53,7 +53,7 @@ UI-Navbar-Header/
    ```
 4. Run Locally:
    ```bash
-   ${deps.next ? 'npm run dev' : (type === 'react' || type === 'angular' || type === 'backend') ? 'npm start' : 'Open index.html directly in your web browser'}
+   Open index.html directly in your web browser
    ```
 
 ---
