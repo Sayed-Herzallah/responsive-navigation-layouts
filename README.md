@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  ![TypeScript](https://img.shields.io/badge/TypeScript-v5-blue?logo=typescript&style=for-the-badge) ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+  <img src="https://img.shields.io/badge/TypeScript-v5-blue?logo=typescript&style=for-the-badge" alt="TypeScript" /> <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" />
 </div>
 
 ---
